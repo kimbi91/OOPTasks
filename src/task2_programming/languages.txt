@@ -1,0 +1,809 @@
+Plankalkül,1942
+ENIAC coding system,1943
+ENIAC Short Code,1946
+Von Neumann and Goldstine graphing system,1946
+ARC Assembly,1947
+CPC Coding scheme,1948
+Curry notation system,1948
+assembly language,1949
+Birkbeck Assembler,1950
+G-code,1950
+Short Code,1950
+ALGAE,1951
+Boehm unnamed coding system,1951
+Intermediate Programming Language,1951
+Klammerausdrücke,1951
+OMNIBAC Symbolic Assembler,1951
+Regional Assembly Language,1951
+Rochester assembler,1951
+Sort Merge Generator,1951
+Stanislaus,1951
+Superplan,1951
+Whirlwind assembler,1951
+A-0 System,1952
+autocode,1952
+COMPOOL,1952
+Editing Generator,1952
+READ/PRINT,1953
+Speedcoding,1953
+ARITH-MATIC,1954
+Laning and Zierler system,1954
+MATRIX MATH,1954
+Address programming language,1955
+BACAIC,1955
+FLOW-MATIC,1955
+Freiburger Code,1955
+Internal Translator,1955
+PACT,1955
+PRINT,1955
+Sequentielle Formelübersetzung,1955
+Information Processing Language,1956
+COMIT,1957
+COMTRAN,1957
+Fortran,1957
+GEORGE,1957
+MATH-MATIC,1957
+UNICODE,1957
+ALGOL,1958
+Lisp,1958
+UNCOL,1958
+COBOL,1959
+FACT,1959
+MAD,1959
+Report Program Generator,1959
+ALCOR,1960
+IBM PL/S,1960
+JOVIAL,1960
+Klerer-May System,1960
+LSE,1960
+SLIP,1960
+ALGO,1961
+CORC,1962
+Language H,1962
+Simula,1962
+SNOBOL,1962
+TECO,1962
+CPL,1963
+JOSS,1963
+TMG,1963
+BASIC,1964
+Coral 66,1964
+COWSEL,1964
+FORMAC,1964
+LYaPAS,1964
+MARK IV,1964
+MIMIC,1964
+PL/I,1964
+P′′,1964
+Speakeasy,1964
+TRAC,1964
+ALTRAN,1965
+Atlas Autocode,1965
+Euler,1965
+IBM RPG II,1965
+TELCOMP,1965
+ALGOL W,1966
+APL,1966
+Data Language Interface,1966
+Edinburgh IMP,1966
+Executive Systems Problem Oriented Language,1966
+ISWIM,1966
+MUMPS,1966
+PL360,1966
+ABSYS,1967
+BCPL,1967
+Interlisp,1967
+Logo,1967
+Space Programming Language,1967
+XPL,1967
+Analitik,1968
+CICS,1968
+CMS-2,1968
+FOCAL,1968
+MAPPER,1968
+PILOT,1968
+Refal,1968
+TREE-META,1968
+TTM,1968
+WATFIV,1968
+B,1969
+Planner,1969
+Polymorphic Programming Language,1969
+SETL,1969
+TUTOR,1969
+ANSYS Parametric Design Language,1970
+Astek,1970
+BASIC-PLUS,1970
+BLISS,1970
+Data General Business Basic,1970
+DIBOL,1970
+Forth,1970
+Hope,1970
+MATLAB,1970
+Mouse,1970
+Pascal,1970
+PLEX,1970
+POP-2,1970
+Stanford Artificial Intelligence Language,1970
+ZOPL,1970
+A#,1971
+Babbage,1971
+Compiler Description Language,1971
+KRL,1971
+Mary,1971
+MDL,1971
+PL-11,1971
+Sue,1971
+C,1972
+INTERCAL,1972
+Programming Language for Business,1972
+Prolog,1972
+RTL/2,1972
+SASL,1972
+Smalltalk,1972
+CGOL,1973
+LIS,1973
+Mizar system,1973
+ML,1973
+PL/C,1973
+PL/M,1973
+ELAN,1974
+GRASS,1974
+MAI Basic Four,1974
+PROSE,1974
+sed,1974
+SP/k,1974
+Structured Query Language,1974
+ABC,1975
+Altair BASIC,1975
+bc,1975
+CLU,1975
+COMAL,1975
+CS-4,1975
+Id,1975
+Microsoft BASIC,1975
+Modula,1975
+PL/0,1975
+Scheme,1975
+Tiny BASIC,1975
+Lisp Machine Lisp,1976
+Lucid,1976
+make,1976
+Mesa,1976
+Plus,1976
+Ratfor,1976
+S,1976
+SAM76,1976
+XPL0,1976
+Applesoft BASIC,1977
+AWK,1977
+Blue,1977
+Commodore BASIC,1977
+Euclid,1977
+FP,1977
+Icon,1977
+Integer BASIC,1977
+Interactive Data Language,1977
+Level I BASIC,1977
+m4,1977
+PEARL,1977
+Programming Computable Functions,1977
+WSFN,1977
+Yellow,1977
+C shell,1978
+HAL/S,1978
+IBM RPG III,1978
+JaM,1978
+Modula-2,1978
+TeX,1978
+UCSD Pascal,1978
+VisiCalc,1978
+Atari BASIC,1979
+BlooP and FlooP,1979
+Bourne shell,1979
+dBase,1979
+REXX,1979
+Text Executive Programming Language,1979
+Ada,1980
+Argus,1980
+CHILL,1980
+CMU Common Lisp,1980
+Concurrent Euclid,1980
+Emerald,1980
+Fjölnir,1980
+Franz Lisp,1980
+Joyce,1980
+Lustre,1980
+Newsqueak,1980
+S/SL,1980
+SIGNAL,1980
+SMALL,1980
+T++,1980
+ZetaLisp,1980
+BBC BASIC,1981
+IBM Advanced BASIC,1981
+IBM BASIC,1981
+Karel,1981
+Kent Recursive Calculator,1981
+Microsoft Macro Assembler,1981
+Nial,1981
+PROSA,1981
+Atari Microsoft BASIC,1982
+DataFlex,1982
+Flavors,1982
+Janus Q25345964,1982
+Lithe,1982
+Maple,1982
+Maxima,1982
+PostScript,1982
+PowerHouse,1982
+SQL*Plus,1982
+T,1982
+Turing,1982
+Zedra,1982
+Action!,1983
+Ada 83,1983
+Allgemeiner Berichts Aufbereitungs Prozessor (ABAP),1983
+BASIC A+,1983
+C++,1983
+Clascal,1983
+GW-BASIC,1983
+Korn shell,1983
+MSX BASIC,1983
+occam,1983
+Prograph,1983
+SISAL,1983
+Standard ML,1983
+Superbase database,1983
+True BASIC,1983
+Turbo Pascal,1983
+VHDL,1983
+4th Dimension,1984
+Common Lisp,1984
+Concurrent C,1984
+Core War,1984
+CycL,1984
+GAUSS,1984
+HC-BASIC,1984
+Lazy ML,1984
+Locomotive BASIC,1984
+Lynx,1984
+Modula-2+,1984
+Objective-C,1984
+ObjVlisp,1984
+Open Programming Language,1984
+Orwell,1984
+PROMAL,1984
+RPL,1984
+Uniface,1984
+Verilog,1984
+Visual FoxPro,1984
+*Lisp,1985
+Atari ST BASIC,1985
+Caml,1985
+Chez Scheme,1985
+Clipper,1985
+CLIPS,1985
+Emacs Lisp,1985
+Lexico,1985
+Linda,1985
+Miranda,1985
+Paradox,1985
+PARI/GP,1985
+QuickBASIC,1985
+Stata,1985
+STELLA,1985
+Vilnius BASIC,1985
+AutoLISP,1986
+Clarion,1986
+CorVision,1986
+Eiffel,1986
+Erlang,1986
+EusLisp Robot Programming Language,1986
+GAP,1986
+GFA BASIC,1986
+Hartmann pipeline,1986
+IBM Informix-4GL,1986
+LabVIEW,1986
+Mathcad,1986
+MOLOG,1986
+Oaklisp,1986
+Object Pascal,1986
+Ruby,1986
+ARexx,1987
+C*,1987
+Clean,1987
+HyperTalk,1987
+NCL,1987
+Oberon,1987
+Perl,1987
+Rapira,1987
+SCUMM,1987
+Self,1987
+Turbo Basic,1987
+4DOS,1988
+A+,1988
+ACUCOBOL,1988
+GeneXus,1988
+GNU Octave,1988
+Mathematica,1988
+Napier88,1988
+Object REXX,1988
+PicoLisp,1988
+RPG/400,1988
+SICStus Prolog,1988
+SPARK,1988
+STOS BASIC,1988
+TADS,1988
+Tcl,1988
+UNITY,1988
+Wolfram Language,1988
+FL,1989
+flow chart language,1989
+GNU Bash,1989
+Lingo,1989
+LPC,1989
+Magik,1989
+Modula-3,1989
+Oak,1989
+ObjVProlog,1989
+PowerBASIC,1989
+RBASIC,1989
+rc,1989
+SAM BASIC,1989
+SequenceL,1989
+SolidThinking Embed,1989
+Turbo Pascal OOP,1989
+WordBASIC,1989
+Zebra,1989
+Accent,1990
+ACL2,1990
+Aldor,1990
+AMOS,1990
+Autodesk 3ds Max,1990
+BANCStar programming language,1990
+Cadence SKILL,1990
+Escher,1990
+EuLisp,1990
+Haskell,1990
+J,1990
+Janus,1990
+MOO,1990
+Object Oberon,1990
+R++,1990
+Sather,1990
+SCM,1990
+Turbo C++,1990
+XProfan,1990
+Z shell,1990
+AgentSheets,1991
+Darwin,1991
+Ease,1991
+FoxPro,1991
+GNU E,1991
+KiXtart,1991
+newLISP,1991
+Oberon-2,1991
+Oriel,1991
+Oz,1991
+Python,1991
+QBasic,1991
+Visual Basic,1991
+Alef,1992
+Analytica,1992
+BETA,1992
+Cecil,1992
+Charity,1992
+Dylan,1992
+Gödel,1992
+Liberty BASIC,1992
+PL/SQL,1992
+Powerscript,1992
+ProvideX,1992
+SenseTalk,1992
+TTCN,1992
+WLanguage,1992
+Amiga E,1993
+AppleScript,1993
+Befunge,1993
+Brainfuck,1993
+Euphoria,1993
+FALSE,1993
+FileMaker Script,1993
+GNU Guile,1993
+High Performance Fortran,1993
+Incr Tcl,1993
+Inform,1993
+Itk,1993
+K,1993
+Lua,1993
+NESL,1993
+NewtonScript,1993
+Obliq,1993
+Piet,1993
+R,1993
+SuperPascal,1993
+Visual Basic for Applications,1993
+ZPL,1993
+Ada 95,1994
+Cilk,1994
+Claire,1994
+Global Arrays,1994
+ICon-L,1994
+MetaPost,1994
+ORCA/Modula-2,1994
+Pike,1994
+RAPID,1994
+Robot Battle,1994
+SAC programming language,1994
+Scientific Vector Language,1994
+Delphi Q4037189,1995
+Delphi,1995
+Java,1995
+Jess,1995
+Lasso,1995
+Leda,1995
+Limbo,1995
+Mercury,1995
+mIRC scripting language,1995
+PHP,1995
+Pythagoras,1995
+Racket,1995
+ROOP,1995
+ROOT,1995
+Ruby (programming language),1995
+SiMPLE,1995
+ToonTalk,1995
+Unified Modeling Language,1995
+1C:Enterprise programming language,1996
+Active Server Pages,1996
+Charm,1996
+Cool,1996
+DRAKON,1996
+Etoys,1996
+Hot Soup Processor,1996
+JADE,1996
+JavaScript,1996
+Joule,1996
+LilyPond,1996
+MIVA Script,1996
+NetRexx,1996
+Netwide Assembler,1996
+OCaml,1996
+Perl Data Language,1996
+Pizza,1996
+QuakeC,1996
+Scol,1996
+SQL/PSM,1996
+Squeak,1996
+SuperCollider,1996
+Visual Basic Script,1996
+Visual J++,1996
+Xojo,1996
+Yorick,1996
+Active Oberon,1997
+Alma-0,1997
+C--,1997
+Caché ObjectScript,1997
+Component Pascal,1997
+E,1997
+ECMAScript,1997
+Free Pascal,1997
+Interactive C,1997
+ISLISP,1997
+LISA,1997
+Maxscript,1997
+MexScript,1997
+Modelica,1997
+Mondrian,1997
+Parser,1997
+Pico,1997
+Pnuts,1997
+REBOL,1997
+Tea,1997
+XBase++,1997
+XLNT,1997
+ActionScript,1998
+Alice,1998
+Curl,1998
+DIV Games Studio,1998
+Grammatical Framework,1998
+Kawa,1998
+Logtalk,1998
+M2001,1998
+Malbolge,1998
+Maya Embedded Language,1998
+Pawn,1998
+PL/pgSQL,1998
+Profile Scripting Language,1998
+PureBasic,1998
+Spice,1998
+TinyScheme,1998
+UnrealScript,1998
+vvvv,1998
+AdvPL,1999
+AutoIt,1999
+BeanShell,1999
+Bistro,1999
+Design By Numbers,1999
+Gambas,1999
+Game Maker Language,1999
+GameMaker Studio,1999
+Harbour,1999
+Nato.0+55+3d,1999
+NetLogo,1999
+Pliant,1999
+S2,1999
+TLA+,1999
+TOM,1999
+Unified Parallel C,1999
+Unlambda,1999
+XPath,1999
+XSLT,1999
+Alice Q1136926,2000
+Apache Ant,2000
+Blitz BASIC,2000
+CHICKEN,2000
+CLACL,2000
+Common Intermediate Language,2000
+DarkBASIC,2000
+ECL Q5322691,2000
+Ferite,2000
+Hume,2000
+Join Java,2000
+Nullsoft Scriptable Install System,2000
+Pascal Script,2000
+Suneido,2000
+Thue,2000
+URQ,2000
+XL Q1859276,2000
+XOTcl,2000
+Yoix,2000
+Zonnon,2000
+ActiveVFP,2001
+AspectJ,2001
+Ch,2001
+C#,2001
+D,2001
+Game Oriented Assembly Lisp,2001
+GDScript,2001
+JASS,2001
+Joy,2001
+Judoscript,2001
+LiveCode,2001
+Nadeshiko,2001
+Nickle,2001
+Processing,2001
+PyUnit,2001
+RPG IV,2001
+Scriptol,2001
+StarLogo,2001
+Torque,2001
+Visual Basic .NET,2001
+xHarbour,2001
+XL,2001
+chef,2002
+ChinesePython,2002
+ChucK,2002
+Cyclone,2002
+Gosu,2002
+Hollywood,2002
+Io,2002
+J#,2002
+Managed Extensions for C++,2002
+NWScript,2002
+PascalABC.NET,2002
+Polyphonic C#,2002
+Standard ML of New Jersey,2002
+Strongtalk,2002
+SystemVerilog,2002
+AngelScript,2003
+ASP.NET,2003
+Bluespec Inc.,2003
+Boo,2003
+Factor,2003
+Falcon,2003
+Go!,2003
+GrGen,2003
+Groovy,2003
+Impulse C,2003
+JAL,2003
+Lisaac,2003
+Mobile BASIC,2003
+Nemerle,2003
+P#,2003
+Q,2003
+Sawzall,2003
+Scratch,2003
+Simul,2003
+Squirrel,2003
+URBI,2003
+Whitespace,2003
+Asymptote,2004
+DuAL,2004
+Easy Programming Language,2004
+eC,2004
+Emoticon,2004
+Epigram,2004
+EventScripts,2004
+FreeBASIC,2004
+Joe-E,2004
+Little b,2004
+Markdown,2004
+OpenGL Shading Language,2004
+Orc,2004
+RUR-PLE,2004
+Scala,2004
+Sleep,2004
+Spec#,2004
+Subtext,2004
+VSXu,2004
+X10,2004
+Asynchronous JavaScript and XML,2005
+Cω,2005
+Fantom,2005
+FpgaC,2005
+F#,2005
+Handel-C,2005
+Haxe,2005
+Linotte,2005
+MetaQuotes Language MQL4/MQL5,2005
+NekoVM,2005
+Oxygene,2005
+PLEXIL,2005
+Seed7,2005
+Simple Yet Powerful Scripting Language,2005
+Sing#,2005
+Ubercode,2005
+XC,2005
+///,2006
+AmbientTalk,2006
+Cat,2006
+Cobra,2006
+Croc,2006
+Fortress,2006
+Hop,2006
+Links,2006
+Newspeak,2006
+Not eXactly C,2006
+occam-π,2006
+OptimJ,2006
+Pixilang,2006
+PowerShell,2006
+Rust,2006
+Sass,2006
+Treetop,2006
+Vala,2006
+.QL,2007
+Ada 2005,2007
+Agda,2007
+Atom,2007
+Clojure,2007
+CUDA,2007
+Cython,2007
+Ezhil,2007
+Godot,2007
+GolfScript,2007
+Idris,2007
+Katahdin,2007
+Lite-C,2007
+LOLCODE,2007
+Nu,2007
+Swift Q17147733,2007
+XQuery,2007
+ZhPy,2007
+Arc,2008
+Boomerang,2008
+Cilk++,2008
+Extensible Application Markup Language,2008
+Genie,2008
+Ioke,2008
+JavaFX Script,2008
+M,2008
+Micro Lua DS,2008
+Microsoft Small Basic,2008
+Mirah,2008
+Nim,2008
+Objective-J,2008
+PCASTL,2008
+Pharo,2008
+Processing.js,2008
+Pure,2008
+Pxem,2008
+Tink,2008
+Umple,2008
+Axum,2009
+Caméléon,2009
+Chapel,2009
+CoffeeScript,2009
+COLA,2009
+F-Script,2009
+Go,2009
+Gremlin,2009
+Hybris,2009
+Julia,2009
+Noop,2009
+OpenCL,2009
+OpenGL ES Shading Language,2009
+ParaSail,2009
+QML,2009
+Vintage BASIC,2009
+Visual T#,2009
+Cilk Plus,2010
+Grace,2010
+IFTTT,2010
+Intel Parallel Building Blocks,2010
+Kojo,2010
+OpenMx,2010
+SuperNova,2010
+Whiley,2010
+Ceylon,2011
+Dart,2011
+EarSketch,2011
+Elixir,2011
+JS++,2011
+Kotlin,2011
+LiveScript Q16963446,2011
+Luna,2011
+Monkey X,2011
+Opa,2011
+Red,2011
+Snap!,2011
+Stencyl,2011
+Stylus,2011
+TouchDevelop,2011
+WebGL,2011
+Xtend,2011
+Ada 2012,2012
+Blockly,2012
+Bogus,2012
+Discipulus,2012
+Elm,2012
+Golo,2012
+Halide,2012
+Imba,2012
+jq,2012
+M#,2012
+OTX,2012
+P,2012
+PLASMA,2012
+Qalb,2012
+Tynker,2012
+TypeScript,2012
+Cuneiform,2013
+Hy,2013
+P*,2013
+P4,2013
+PureScript,2013
+Shape Expressions,2013
+Snap4Arduino,2013
+Wyvern,2013
+Citrine,2014
+Crystal,2014
+Flowgorithm,2014
+Futhark,2014
+Hack,2014
+Pyret,2014
+RCML,2014
+solidity,2014
+Swift,2014
+Ur/Web,2014
+VIPLE,2014
+Pixie,2015
+Raku,2015
+WebAssembly,2015
+wollok,2015
+Zig,2015
+Flix,2016
+Odin,2016
+Reason,2016
+Ring,2016
+Svelte,2016
+Ballerina,2017
+Q#,2017
+Source,2017
+Dragon,2018
+Rockstar,2018
+V,2018
+Bosque,2019
+Project Verona,2019

@@ -1,0 +1,50 @@
+1,Alfreds Futterkiste,12209,Germany,Berlin
+2,Ana Trujillo Emparedados y helados,05021,Mexico,México D.F.
+3,Antonio Moreno Taquería,05023,Mexico,México D.F.
+4,Around the Horn,WA1 1DP,UK,London
+5,Berglunds snabbköp,S-958 22,Sweden,Luleå
+6,Blauer See Delikatessen,68306,Germany,Mannheim
+7,Blondel père et fils,67000,France,Strasbourg
+8,Bólido Comidas preparadas,28023,Spain,Madrid
+9,Bon app',13008,France,Marseille
+10,Bottom-Dollar Marketse,T2F 8M4,Canada,Tsawassen
+11,B's Beverages,EC2 5NT,UK,London
+12,Cactus Comidas para llevar,1010,Argentina,Buenos Aires
+13,Centro comercial Moctezuma,05022,Mexico,México D.F.
+14,Chop-suey Chinese,3012,Switzerland,Bern
+15,Comércio Mineiro,05432-043,Brazil,São Paulo
+16,Consolidated Holdings,WX1 6LT,UK,London
+17,Drachenblut Delikatessend,52066,Germany,Aachen
+18,Du monde entier,44000,France,Nantes
+19,Eastern Connection,WX3 6FW,UK,London
+20,Ernst Handel,8010,Austria,Graz
+21,Familia Arquibaldo,05442-030,Brazil,São Paulo
+22,FISSA Fabrica Inter. Salchichas S.A.,28034,Spain,Madrid
+23,Folies gourmandes,59000,France,Lille
+24,Folk och fä HB,S-844 67,Sweden,Bräcke
+25,Frankenversand,80805,Germany,München
+26,France restauration,44000,France,Nantes
+27,Franchi S.p.A.,10100,Italy,Torino
+28,Furia Bacalhau e Frutos do Mar,1675,Portugal,Lisboa
+29,Galería del gastrónomo,08022,Spain,Barcelona
+30,Godos Cocina Típica,41101,Spain,Sevilla
+31,Gourmet Lanchonetes,04876-786,Brazil,Campinas
+32,Great Lakes Food Market,97403,USA,Eugene
+33,GROSELLA-Restaurante,1081,Venezuela,Caracas
+34,Hanari Carnes,05454-876,Brazil,Rio de Janeiro
+35,HILARIÓN-Abastos,5022,Venezuela,San Cristóbal
+36,Hungry Coyote Import Store,97827,USA,Elgin
+37,Hungry Owl All-Night Grocers,SW7 1RZ,Ireland,Cork
+38,Island Trading,PO31 7PJ,UK,Cowes
+39,Königlich Essen,14776,Germany,Brandenburg
+40,La corne d'abondance,78000,France,Versailles
+41,La maison d'Asie,31000,France,Toulouse
+42,Laughing Bacchus Wine Cellars,V3F 2K1,Canada,Vancouver
+43,Lazy K Kountry Store,99362,USA,Walla Walla
+44,Lehmanns Marktstand,60528,Germany,Frankfurt a.M.
+45,Let's Stop N Shop,94117,USA,San Francisco
+46,LILA-Supermercado,3508,Venezuela,Barquisimeto
+47,LINO-Delicateses,4980,Venezuela,I. de Margarita
+48,Lonesome Pine Restaurant,97219,USA,Portland
+49,Magazzini Alimentari Riuniti,24100,Italy,Bergamo
+50,Maison Dewey,B-1180,Belgium,Bruxelles

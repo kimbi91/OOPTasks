@@ -1,0 +1,12 @@
+Kolbászos;kolbász,mozzarella,paradicsomszósz;20;SMALL
+Sonkás-kukoricás;sonka,kukorica,mozzarella,paradicsomszósz;20;SMALL
+Carbonara;mozzarella,bacon,sonka,fokhagymás szósz;30;SMALL
+Hagymás;hagyma,lilahagyma,csirke,fokhagymás szósz;20;SMALL
+MegaVega;gomba,spenót,paprika,koktélparadicsom,lilahagyma,vegán tejfölös szósz;10;MEDIUM
+Gyros;mozzarella,kebab csirke,lilahagyma,uborka,fokhagymás szósz;45;MEDIUM
+Húsimádó;marhahús,bacon,sonka,kolbász,mozzarella,paradicsomszósz;50;MEDIUM
+Hawaii;sonka,ananász,mozzarella,paradicsomszósz;30;MEDIUM
+Farmer;mozzarella,csirke,paprika,lilahagyma,gomba,paradicsomszósz;30;LARGE
+Szuprém;marhahús,kolbász,hagyma,lilahagyma,mozzarella,paradicsomszósz;20;LARGE
+Sajtimádó;coreggio,mozzarella,cheddar,trappista,fokhagymás szósz;20;LARGE
+Magyaros;disznó,hagyma,kenyér,zsírszósz;100;EXTRA_LARGE
