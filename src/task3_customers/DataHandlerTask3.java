@@ -1,5 +1,7 @@
 package task3_customers;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -46,8 +48,14 @@ public class DataHandlerTask3 {
     }
 
     public void loadFromFile() {
-        try {
-            // TODO
+        try (BufferedReader reader = new BufferedReader(new FileReader("src/task3_customers/customers.txt"))) {
+            String line;
+
+            customers = new ArrayList<>();
+
+            while ((line = reader.readLine()) != null) {
+                customers.add(new Customer(line));
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }

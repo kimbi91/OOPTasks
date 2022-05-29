@@ -1,6 +1,9 @@
 package task2_programming;
 
+import java.net.Inet4Address;
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 
 public class ProgrammingTask {
@@ -31,8 +34,19 @@ public class ProgrammingTask {
      * (Megjegyzés: nincs holtverseny.)
      */
     public int findYearWithMaxLanguages() {
-        // TODO
-        return -1;
+        Map<Integer, List<String>> languages = dataHandler.getLanguages();
+
+        Integer maxLang = 0;
+        int size = 0;
+        for (Map.Entry<Integer, List<String>> entry : languages.entrySet()) {
+
+            if (entry.getValue().size() > size) {
+                maxLang = entry.getKey();
+                size = languages.get(maxLang).size();
+            }
+
+        }
+        return maxLang;
     }
 
     /**
@@ -48,7 +62,18 @@ public class ProgrammingTask {
      *
      */
     public int findLanguageYear(String languageName) {
-        // TODO
+        Map<Integer, List<String>> languages = dataHandler.getLanguages();
+
+        for (Map.Entry<Integer, List<String>> entry : languages.entrySet()) {
+            List<String> values = entry.getValue();
+
+            for (String value : values) {
+                if (value.equals(languageName)) {
+                    return entry.getKey();
+                }
+            }
+        }
+
         return -1;
     }
 
@@ -65,8 +90,20 @@ public class ProgrammingTask {
      * Ha nincs olyan programozási nyelv, akkor a metódus üres (0 hosszúságú) listával térjen vissza.
      */
     public List<String> searchForLanguages(String searchFor) {
-        // TODO
-        return null;
+        Map<Integer, List<String>> languages = dataHandler.getLanguages();
+
+        List<String> found = new ArrayList<>();
+
+        for (Map.Entry<Integer, List<String>> entry : languages.entrySet()) {
+            List<String> values = entry.getValue();
+
+            for (String value : values) {
+                if (value.toLowerCase(Locale.ROOT).contains(searchFor.toLowerCase(Locale.ROOT))) {
+                    found.add(value);
+                }
+            }
+        }
+        return found;
     }
 
     /**
@@ -76,8 +113,20 @@ public class ProgrammingTask {
      * @return 13
      */
     public int countLanguagesWithOneLetterName() {
-        // TODO
-        return -1;
+        Map<Integer, List<String>> languages = dataHandler.getLanguages();
+
+        int counter = 0;
+
+        for (Map.Entry<Integer, List<String>> entry : languages.entrySet()) {
+            List<String> values = entry.getValue();
+
+            for (String value : values) {
+                if (value.length() == 1) {
+                    counter++;
+                }
+            }
+        }
+        return counter;
     }
 
     /**
@@ -87,8 +136,22 @@ public class ProgrammingTask {
      * @return Allgemeiner Berichts Aufbereitungs Prozessor
      */
     public String findLongestNamedLanguage() {
-        // TODO
-        return null;
+        Map<Integer, List<String>> languages = dataHandler.getLanguages();
+
+        int size = 0;
+        String longestName = "";
+
+        for (Map.Entry<Integer, List<String>> entry : languages.entrySet()) {
+            List<String> values = entry.getValue();
+
+            for (String value : values) {
+                if (value.length() > size) {
+                    size = value.length();
+                    longestName = value;
+                }
+            }
+        }
+        return longestName;
     }
 
 }

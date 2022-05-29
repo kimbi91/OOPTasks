@@ -1,5 +1,7 @@
 package task4_pizzas;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -46,8 +48,12 @@ public class DataHandlerTask4 {
     }
 
     public void loadData() {
-        try {
-            // TODO
+        try (BufferedReader reader = new BufferedReader(new FileReader("src/task4_pizzas/pizzas.txt"))) {
+            String line;
+
+            while ((line = reader.readLine()) != null) {
+                pizzas.add(new Pizza(line));
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }

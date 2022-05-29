@@ -1,5 +1,7 @@
 package task3_customers;
 
+import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
@@ -31,8 +33,15 @@ public class CustomerTask {
      * Számold meg!
      */
     public int countCountries() {
-        // TODO
-        return -1;
+        List<Customer> customers = dataHandler.getCustomers();
+
+        Set<String> customerSet = new HashSet<>();
+
+        for (Customer customer : customers) {
+            customerSet.add(customer.getCountry());
+        }
+
+        return customerSet.size();
     }
 
     /**
@@ -41,8 +50,15 @@ public class CustomerTask {
      * és gyűjtsd össze a nevüket!
      */
     public List<String> collectCustomerNamesByCity(String city) {
-        // TODO
-        return null;
+        List<Customer> customers = dataHandler.getCustomers();
+        List<String> names = new ArrayList<>();
+
+        for (Customer customer : customers) {
+            if (customer.getCity().equalsIgnoreCase(city)) {
+                names.add(customer.getName());
+            }
+        }
+        return names;
     }
 
     /**
@@ -59,8 +75,24 @@ public class CustomerTask {
      *          B-1180 (Belgium)
      */
     public Set<String> findCountriesWithNonDigitalPostalCode() {
-        // TODO
-        return null;
+        List<Customer> customers = dataHandler.getCustomers();
+        Set<String> foundCountries = new HashSet<>();
+
+        for (Customer customer : customers) {
+            boolean isFound = false;
+
+            for (int i = 0; i < customer.getPostalCode().length(); i++) {
+                if (Character.isLetter(customer.getPostalCode().charAt(i))) {
+                    isFound = true;
+                    break;
+                }
+            }
+
+            if (isFound) {
+                foundCountries.add(customer.getCountry());
+            }
+        }
+        return foundCountries;
     }
 
 }
